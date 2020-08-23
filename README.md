@@ -323,7 +323,6 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ### 🌚  作者
 - 主程序以及框架：[@luolongfei](https://github.com/luolongfei)
-- 英文版文档：[@肖阿姨](#)
 
 ### 🎉  鸣谢
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer/) （邮件发送功能依赖此库）
